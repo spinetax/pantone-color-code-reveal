@@ -1,4 +1,3 @@
-# pantone-color-code-reveal
 Chrome extension to show the RGB &amp; HEX color value on Pantone website.
 
 - You can install the extension by enabling Developer mode in Chrome extensions & Load unpacked.
